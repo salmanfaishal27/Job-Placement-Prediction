@@ -1,0 +1,3 @@
+Dataset : https://www.kaggle.com/datasets/ahsan81/job-placement-dataset
+
+Deployment : https://huggingface.co/spaces/salmanfaishal27/Job-Placement-Prediction
